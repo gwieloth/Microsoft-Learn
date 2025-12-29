@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageLoot", "GarbageLoot\GarbageLoot.csproj", "{DBD9513C-9B0E-2540-00C8-FAE1369A33AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlaveDice", "SlaveDice\SlaveDice.csproj", "{BB69C4FB-AE48-B18C-2FC8-3AA884228268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBD9513C-9B0E-2540-00C8-FAE1369A33AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD9513C-9B0E-2540-00C8-FAE1369A33AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD9513C-9B0E-2540-00C8-FAE1369A33AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD9513C-9B0E-2540-00C8-FAE1369A33AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB69C4FB-AE48-B18C-2FC8-3AA884228268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB69C4FB-AE48-B18C-2FC8-3AA884228268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB69C4FB-AE48-B18C-2FC8-3AA884228268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB69C4FB-AE48-B18C-2FC8-3AA884228268}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1106E98F-9096-460B-BBA3-4E5C036E62C0}
+	EndGlobalSection
+EndGlobal
